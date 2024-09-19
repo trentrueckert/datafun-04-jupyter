@@ -17,3 +17,10 @@ git push
 7. Add the files, commit them, push them to GitHub
 8. Verify the GitHub repository
 ```
+
+## How to Install and Run the Project
+```
+1. Edited the requirements.txt file
+2. Used PowerShell to download the documents with the following command
+3. py -m pip install -r requirements.txt
+```
